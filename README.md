@@ -1,27 +1,18 @@
-# BuzzfeedProject
+# 🦸‍♂️ Quiz Interativo: Herói ou Vilão?
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.10.
+**Descrição**: Descubra sua verdadeira essência com esse quiz interativo! Este projeto foi desenvolvido em Angular e oferece uma experiência divertida e envolvente, onde você pode explorar se seu espírito é mais inclinado a ser um herói ou um vilão.
 
-## Development server
+### 🌟 O Que Você Vai Encontrar
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Experiência Imersiva**: Responda a perguntas intrigantes que desafiam sua moralidade e suas escolhas.
+- **Resultados Personalizados**: Ao final, descubra se você tem mais características de um super-herói ou de um super vilão.
+- **Design Responsivo**: Acesse de qualquer dispositivo, seja no celular ou no desktop, e tenha uma experiência fluida.
 
-## Code scaffolding
+### 🚀 Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este projeto utiliza as mais recentes tecnologias para garantir uma aplicação robusta e moderna:
+- **Angular** para construir uma interface dinâmica.
+- **TypeScript** para um desenvolvimento mais seguro e eficaz.
+- **CSS Flexbox** para um layout responsivo e atraente.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Texto alternativo](https://raw.githubusercontent.com/adriano-gil/angular-buzzfeed-quizz-project/refs/heads/main/src/assets/imgs/angular%20buzzfeed%20interface.png)
